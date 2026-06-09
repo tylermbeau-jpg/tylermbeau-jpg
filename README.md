@@ -1,21 +1,21 @@
 # Tyler Beauregard
 
-**Strategy & Operations Leader | Data & Financial Analytics**
+**Forward Deployed Engineer · Ships production software solo, deploys it with the customer**
 
-I build systems that turn raw data into decisions. My work sits at the intersection of financial operations, automation, and analytics — helping organizations move faster with better information.
+I build full-stack and agentic systems end to end, then sit with the non-technical team that has to use them. My work lives in the messy last mile: real data, real stakeholders, real production. AI is the multiplier that lets me ship full systems solo, in days.
 
-## What I do
+## Selected work
 
-- Financial modeling and reporting architecture (Excel, Google Sheets, Python)
-- Automated document generation (Excel-to-PowerPoint pipelines, PDF reporting)
-- AI-assisted workflow design (Claude API, Apps Script)
-- Data visualization and dashboards (Tableau, Looker Studio)
+- **[school-finance-mcp](https://github.com/tylermbeau-jpg/school-finance-mcp)**: an open-source MCP server (official MCP Python SDK / FastMCP) that exposes California school-finance validation and reimbursement tools to any MCP client. Public, MIT, test-covered.
+- **Data Forge**: a live K-12 financial-operations platform (Next.js + FastAPI on Vercel + Render + Supabase) serving a $300M+ institution. Architected and shipped solo.
+- **Position-tracking system**: a custom Next.js + Prisma app built to replace a vendor tool. Its validation surfaced 17 personnel misallocations, a correction on the order of $1.7M.
 
-## Currently
+## How I build
 
-- **Manager of Financial Operations** at a $250M public organization
-- **Founder, Data Forge LLC** — analytics consulting for institutional and government clients
+Full-stack apps, agentic pipelines, and the deployment work to put them in front of users. A self-built Claude Code stack (skills, review subagents, scheduled jobs) plus Claude API pipelines with human-in-the-loop are how I move at one-person scale.
 
 ## Tech
 
-`Python` · `Excel / VBA` · `Google Sheets` · `Apps Script` · `Claude API` · `Power Query` · `Tableau` · `Looker Studio` · `SQL`
+`Next.js` · `FastAPI` · `TypeScript` · `Python` · `Claude API` · `Claude Code` · `MCP` · `Vercel` · `Render` · `Supabase` · `SQL` · `git`
+
+Founder, Databros LLC.
